@@ -1,2 +1,2 @@
-hello word
-i am jhon
+hello is word
+i am a jhon
