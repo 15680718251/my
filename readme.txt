@@ -1,4 +1,4 @@
-hello is word
+hello is a word
 this is dev
 <<<<<<< HEAD
 Creating a new branch is quick AND simple.
