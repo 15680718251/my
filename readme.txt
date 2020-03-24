@@ -1,6 +1,14 @@
-hello is a word
-this is dev
+hello is word
+i am a jhon
+god is a girl
+another ttg change
+sfd
 <<<<<<< HEAD
-Creating a new branch is quick AND simple.
-no-diff
-issue-101
+master
+=======
+feature1
+>>>>>>> feature1
+Creating a new branch is quick and simple.
+dev
+dev2
+12
